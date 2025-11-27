@@ -7,6 +7,8 @@ This repository hosts a personal cheatsheet for the Teenage Engineering OP-Z syn
 * **Icon Library Included**: Contains a library of OP-Z-specific icons and elements. Use these to create your own custom layout or develop personal shortcodes and memory aids!
   * **Download the library: [opz_cheatsheet_library.excalidrawlib](opz_cheatsheet_library.excalidrawlib)**
 
+![Teenage Engineering OP-Z Cheatsheet](./img/opz_cheatsheet_photo.jpeg)
+
 ## Version 0.4
 
 [![Teenage Engineering OP-Z Cheatsheet 0.4](./img/opz_cheatsheet_0.4.png)](./img/opz_cheatsheet_0.4.png)
